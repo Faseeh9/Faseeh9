@@ -60,12 +60,6 @@ Created a responsive multi-page frontend using **HTML, CSS, and JavaScript**, fo
 
 ---
 
-## 📊 GitHub Stats
-
-![Faseeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faseeh9&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Strengths
 
 * Strong foundation in AI/ML concepts  
@@ -78,7 +72,7 @@ Created a responsive multi-page frontend using **HTML, CSS, and JavaScript**, fo
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [Muhmmad Faseeh)](https://www.linkedin.com/in/muhammad-faseeh-19796028a?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+* 💼 LinkedIn: [Muhmmad Faseeh](https://www.linkedin.com/in/muhammad-faseeh-19796028a?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 * 📧 Email: muhammadfaseeh06@gmail.com  
 
 ---
